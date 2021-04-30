@@ -38,7 +38,6 @@
 .header_nav{
     display: flex;
     justify-content: space-evenly;
-    margin-right: 10px;
 }
 
 .header_option{
@@ -55,6 +54,11 @@
     display: flex;
     color: white;
     align-items: center;
+}
+
+.header__cartCount{
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .header__optionLineOne{
