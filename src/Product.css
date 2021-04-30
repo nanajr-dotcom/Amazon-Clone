@@ -22,7 +22,7 @@
 
 .product__rating{
     display: flex;
-    margin-bottom: 20px;
+    
 }
 .product > img{
     max-height: 200px;
